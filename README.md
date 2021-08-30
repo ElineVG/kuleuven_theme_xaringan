@@ -6,7 +6,7 @@ https://elinevg.github.io/kuleuven_theme_xaringan/#1
 
 ## Screenshots
 
-<div>
+<div style = "float:left;">
 <img src="https://elinevg.github.io/kuleuven_theme_xaringan/img/kuleuventheme_titleslide.png" align="right" alt="titleslide" width="50%" />
 
 <img src="https://elinevg.github.io/kuleuven_theme_xaringan/img/kuleuventheme_normalslide.png" align="right" alt="normalslide" width="50%" />
