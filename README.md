@@ -6,19 +6,10 @@ https://elinevg.github.io/kuleuven_theme_xaringan/#1
 
 ## Screenshots
 
-<img src="https://elinevg.github.io/kuleuven_theme_xaringan/img/kuleuventheme_titleslide.png" align="right" alt="titleslide" width="100%" />
+<img src="https://elinevg.github.io/kuleuven_theme_xaringan/img/kuleuventheme_titleslide.png" align="left" alt="titleslide" width="50%" style = "margin-bottom: 20px;"/>
 
-&NewLine;
-&NewLine;
+<img src="https://elinevg.github.io/kuleuven_theme_xaringan/img/kuleuventheme_normalslide.png" align="left" alt="normalslide" width="50%" style = "margin-bottom: 20px;"/>
 
-<img src="https://elinevg.github.io/kuleuven_theme_xaringan/img/kuleuventheme_normalslide.png" align="right" alt="normalslide" width="100%" />
+<img src="https://elinevg.github.io/kuleuven_theme_xaringan/img/kuleuventheme_inverseslide.png" align="left" alt="inverseslide" width="50%" style = "margin-bottom: 20px;"/>
 
-&NewLine;
-&NewLine;
-
-<img src="https://elinevg.github.io/kuleuven_theme_xaringan/img/kuleuventheme_inverseslide.png" align="right" alt="inverseslide" width="100%" />
-
-&NewLine;
-&NewLine;
-
-<img src="https://elinevg.github.io/kuleuven_theme_xaringan/img/kuleuventheme_finalslide.png" align="right" alt="finalslide" width="100%" />
+<img src="https://elinevg.github.io/kuleuven_theme_xaringan/img/kuleuventheme_finalslide.png" align="left" alt="finalslide" width="50%" style = "margin-bottom: 20px;"/>
