@@ -11,6 +11,7 @@ Authors@R: c(
     person("Daniel", "Anderson", role = "ctb"),
     person("Dawei", "Lang", role = "ctb"),
     person("Deo", "Salil", role = "ctb"),
+    person("Eline", "Van Geert", role = "ctb", comment = c(ORCID = "0000-0002-7848-5998")),
     person("Emi", "Tanaka", role = "ctb"),
     person("Garrick", "Aden-Buie", role = "ctb", comment = c(ORCID = "0000-0002-7111-0077")),
     person("Iñaki", "Ucar", role = "ctb", comment = c(ORCID = "0000-0001-6403-5550")),

@@ -1,0 +1,80 @@
+a, a > code {
+  color: #119abb;
+  text-decoration: none;
+}
+
+.footnote {
+  position: absolute;
+  bottom: 4.5em;
+  padding-right: 4em;
+  font-size: 90%;
+}
+
+.normal{
+  background: url(logos/KULeuven_small.png) 97% 98.3% no-repeat, linear-gradient(to bottom, white 90%, rgb(29,141,176) 10%);
+  color: #2F4D5D;
+}
+
+.normal h1, .normal h2{
+  color: #1D8DB0;
+}
+
+.inverse {
+  background: url(logos/KULeuven_small.png) 97% 98.3% no-repeat, rgb(29,141,176);
+  color: #d6d6d6;
+  text-shadow: none;
+}
+
+.final-slide {
+  background: url(logos/KULeuven_titlepage.png) 5% 5% no-repeat, linear-gradient(to bottom, white 90%, rgb(29,141,176) 10%);
+  text-align: left;
+}
+
+.title-slide {
+  background: url(logos/KULeuven_titlepage.png) 5% 5% no-repeat, url(logos/KULeuven_sedes.png) right bottom no-repeat, linear-gradient(to top, rgb(29,141,176) 90%, white 10%);
+  text-align: left;
+}
+
+.title-slide h1 {
+  font-size: 60px;
+  font-weight: medium;
+  margin-top: 140px;
+  margin-bottom: -15px;
+  color: #FFFFFF;
+}
+.title-slide h2 {
+  font-size: 40px;
+  color: #FFFFFF; 
+  margin-bottom: 120px;
+}
+.title-slide h3 {
+  font-size: 20px;
+  line-height: 1.3;
+  color: #FFFFFF; 
+}
+
+.title-slide .remark-slide-number {
+  display: none;
+}
+
+.remark-slide-number {
+    color: white;
+    position: fixed;
+    bottom: 3.5%;
+    left: 5%;
+    width: 100%;
+    text-align: left;
+    font-size: 16px;
+    opacity: 1;
+}
+
+.footer {
+    color: white;
+    position: fixed;
+    bottom: 3.5%;
+    right: 14%;
+    width: 100%;
+    text-align: right;
+    font-size: 16px;
+    opacity: 1;
+}
